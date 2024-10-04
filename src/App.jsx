@@ -38,7 +38,7 @@ function App() {
 
   return (
     <div className="min-h-screen w-full flex flex-col items-center justify-center bg-gray-100 p-4">
-      <h1 className="text-2xl mb-20 md:text-9xl font-bold text-gray-800 text-center">React Quote Generator</h1>
+      <h1 className="text-2xl mb-20 md:text-7xl font-bold text-gray-800 text-center">React Quote Generator</h1>
       <div className="w-full max-w-lg mt-20 bg-white shadow-lg rounded-lg p-8 text-center">
         {loading ? (
           <h1 className="text-xl font-semibold text-gray-800 italic">Loading...</h1>
