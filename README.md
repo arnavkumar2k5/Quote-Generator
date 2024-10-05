@@ -3,6 +3,9 @@
 
 This is a React Quote App that fetches and displays random quotes to inspire users. The app allows users to view different quotes and save their favorites locally.
 
+![image](https://github.com/user-attachments/assets/925d6855-efc7-4a6e-aec6-9608cd17f78c)
+
+
 ## Features
 
 - Fetches random quotes from an API.
